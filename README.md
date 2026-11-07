@@ -17,7 +17,7 @@ An Interactive Logistics Performance & Operations Analytics Dashboard.
 4. Data Source
 Dataset: Logistics Operations Dataset
 
-5. Features & Highlights
+4. Features & Highlights
 
 A. Business Problem
 Logistics operations involve multiple factors, including order volumes, delivery timelines, hub capacity, driver performance, and vehicle maintenance. Managing these activities separately makes it difficult to identify delivery delays, monitor operational efficiency, and evaluate overall business performance.
@@ -71,3 +71,8 @@ The dashboard helps answer important business questions:
 - Which drivers have the highest number of delivery delays?
 - Which vehicle models handle the highest order volumes?
 - Are older vehicles experiencing more breakdowns?
+
+5. Screenshot
+Show what the dashbard looks like - 
+https://github.com/kinjalgala06/Logistics-Dashboard/blob/main/Screenshot%20Logistics%20Dashboard.png
+
