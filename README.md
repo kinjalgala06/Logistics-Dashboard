@@ -73,7 +73,6 @@ The dashboard helps answer important business questions:
 - Are older vehicles experiencing more breakdowns?
 
 5. Screenshot
-Show what the dashbard looks like - 
-https://github.com/kinjalgala06/Logistics-Dashboard/blob/main/Screenshot%20Logistics%20Dashboard.png
+Show what the dashbard looks like :- 
 
 ![image_alt](https://github.com/kinjalgala06/Logistics-Dashboard/blob/e458b5e896bf43587065ffe497ed994303b2e327/Screenshot%20Logistics%20Dashboard.png)
