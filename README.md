@@ -1,7 +1,5 @@
 Logistics Performance & Operations Dashboard
-1. Project Title
-Project Title: Logistics Performance & Operations Dashboard
-An Interactive Logistics Performance & Operations Analytics Dashboard.
+1. Project Title: Logistics Performance & Operations Dashboard
 
 2. Short Description
 -The Logistics Performance Dashboard is an interactive Power BI project designed to monitor and analyze logistics operations across orders, hubs, drivers, and vehicles. It provides insights into delivery performance, customer satisfaction, hub capacity, driver efficiency, and vehicle utilization.
