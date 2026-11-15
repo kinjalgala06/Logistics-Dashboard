@@ -11,9 +11,6 @@ Logistics Performance & Operations Dashboard
 - Microsoft Excel: Data cleaning, preprocessing, and initial data management.
 - Power Query: Data transformation and data cleaning.
 - DAX: Creating calculated measures, KPIs, MoM comparisons, and performance metrics.
-  
-4. Data Source
-Dataset: Logistics Operations Dataset
 
 4. Features & Highlights
 
