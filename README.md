@@ -18,9 +18,10 @@ Dataset: Logistics Operations Dataset
 4. Features & Highlights
 
 A. Business Problem:
-Logistics operations involve multiple factors, including order volumes, delivery timelines, hub capacity, driver performance, and vehicle maintenance. Managing these activities separately makes it difficult to identify delivery delays, monitor operational efficiency, and evaluate overall business performance.
 
+Logistics operations involve multiple factors, including order volumes, delivery timelines, hub capacity, driver performance, and vehicle maintenance. Managing these activities separately makes it difficult to identify delivery delays, monitor operational efficiency, and evaluate overall business performance.
 The business needs a centralized dashboard to track performance, identify areas of improvement, and support data-driven decision-making.
+
 B. Project Goals:
 - Monitor overall logistics performance through interactive KPIs.
 - Track monthly order growth and delivery efficiency.
