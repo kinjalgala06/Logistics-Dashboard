@@ -73,4 +73,4 @@ The dashboard helps answer important business questions:
 5. Screenshot
 Show what the dashbard looks like :- 
 
-![image_alt]([Logistics Dashboard.png](https://github.com/kinjalgala06/Logistics-Dashboard/blob/main/Logistics%20Dashboard.png))
+![image_alt](https://github.com/kinjalgala06/Logistics-Dashboard/blob/main/Logistics%20Dashboard.png)
