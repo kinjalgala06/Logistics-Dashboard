@@ -17,11 +17,11 @@ Dataset: Logistics Operations Dataset
 
 4. Features & Highlights
 
-A. Business Problem
+A. Business Problem:
 Logistics operations involve multiple factors, including order volumes, delivery timelines, hub capacity, driver performance, and vehicle maintenance. Managing these activities separately makes it difficult to identify delivery delays, monitor operational efficiency, and evaluate overall business performance.
 
 The business needs a centralized dashboard to track performance, identify areas of improvement, and support data-driven decision-making.
-B. Project Goals
+B. Project Goals:
 - Monitor overall logistics performance through interactive KPIs.
 - Track monthly order growth and delivery efficiency.
 - Evaluate hub capacity and order processing performance.
@@ -29,7 +29,7 @@ B. Project Goals
 - Monitor vehicle utilization and breakdown patterns.
 - Improve delivery and operational efficiency through data-driven insights.
 
-C. Dashboard Overview & Key Visuals
+C. Dashboard Overview & Key Visuals:
 1. Overview Dashboard
 - Total Orders, On-Time Delivery Rate, CSAT, and Average Delivery Time.
 - Previous Month comparison and Month-over-Month (MoM) analysis.
@@ -53,7 +53,7 @@ C. Dashboard Overview & Key Visuals
 - Breakdowns by Vehicle Code and Model (Bar Charts).
 - Orders by Vehicle Type (Donut Chart).
   
-D. Business Impact & Insights
+D. Business Impact & Insights:
 The dashboard enables management to:
 1. Improve Delivery Performance: Monitor on-time delivery rates and average delivery duration to identify delivery inefficiencies.
 2. Optimize Hub Operations: Compare processed orders against hub capacity to identify overloaded or underutilized hubs.
@@ -61,7 +61,7 @@ The dashboard enables management to:
 4. Improve Vehicle Management: Track active vehicles, order distribution, and breakdown frequency to support better vehicle utilization.
 5. Monitor Customer Satisfaction: Analyze monthly CSAT performance and identify changes in customer experience.
 
-E. Key Business Insights
+E. Key Business Insights:
 The dashboard helps answer important business questions:
 - Are total orders increasing or decreasing compared to the previous month?
 - Is the on-time delivery rate improving?
